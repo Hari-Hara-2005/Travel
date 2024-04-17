@@ -1,0 +1,8 @@
+.transform:hover{
+    transform: translatey(-8px);
+    transition-property: transform;
+    transition-duration: 0.6s;
+    transition-timing-function: ease;
+    transition-delay: 0s;
+    transition: all 0.6s;
+}
